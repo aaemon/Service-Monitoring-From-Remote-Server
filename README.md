@@ -1,0 +1,2 @@
+# Service-Monitoring-From-Remote-Server
+SCRIPT TO CHECK THE SERVICES RUNNING ON REMOTE SERVER
